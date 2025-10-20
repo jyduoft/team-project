@@ -26,10 +26,11 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
 
----We use discord to communicate. We use @mail.utoronto.ca as our platform to send important messages.
----We will have weekly meetings on the weekend. we will submit the work of the previous week before meeting and discuss them during the meeting. We will also plan our work for the next week
----Teammates should notify others when they are going to miss a meeting or are unable to complete their weekly tasks.
----Active listening
+--- We use Discord as our main communication platform.
+--- We use @mail.utoronto as 'official' communication platform that send important notice to avoid miss.
+--- We have a meeting everyweek on Weekend. We should submit our work done from last week before the meeting, and discuss on the meeting.
+    We should also discuss our plan and individual task for next week.
+    We should meet at least once every week to keep track everyone's work.
 
 ### [Other Categories of norms and expectations go here]
 
@@ -42,12 +43,13 @@ This contract sets out shared expectations and commitments for how our team will
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
 
----We make decisions by voting and taking the majority vote, but everyone should explain their reasoning.
+--- We make decision by majority, but everyone need to explain their decisions. 
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
 
----We will discuss and find ways to resolve conflicts, if we have an unresolvable issue, we will seek help from the TA and the professor.
+--- When meeting conflict, we should try to discuss and find some way to solve.
+--- If we can not resolve conflict, then ask help from TA or Professor is necessary.
 
 ## Accountability
 
@@ -61,5 +63,7 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
+(type names here)
+Yuxiang Zhang
 Kenneth Hongzheng Wang
 Joseph Ding
