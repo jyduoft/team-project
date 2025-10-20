@@ -55,7 +55,7 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
 
----
+---Complete their tasks on time and respond to communications
 
 ---
 
@@ -65,3 +65,5 @@ Team Member Signatures:
 
 (type names here)
 Yuxiang Zhang
+Kenneth Hongzheng Wang
+Joseph Ding
