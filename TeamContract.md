@@ -26,9 +26,9 @@ This contract sets out shared expectations and commitments for how our team will
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
 
----We use discord to communicate. We use @mail.utoronto.ca as our platform that send important messages.
----We will have weekly meeting on weekend. we will submit the work of the previous week before meeting and discuss them on the meeting we will also plan our work for the next week
----Teammates should notify others when they are going to miss a meeting or unable to complete their weekly task
+---We use discord to communicate. We use @mail.utoronto.ca as our platform to send important messages.
+---We will have weekly meetings on the weekend. we will submit the work of the previous week before meeting and discuss them during the meeting. We will also plan our work for the next week
+---Teammates should notify others when they are going to miss a meeting or are unable to complete their weekly tasks.
 ---Active listening
 
 ### [Other Categories of norms and expectations go here]
@@ -42,18 +42,18 @@ This contract sets out shared expectations and commitments for how our team will
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
 
----We make descision by voting and then we take the majority vote, but everyone should explain how they come up with this
+---We make decisions by voting and taking the majority vote, but everyone should explain their reasoning.
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
 
----We should dicuss and find way to resolve the conflict, if we have unresolvable issue we will seek help from the TA and the professor
+---We will discuss and find ways to resolve conflicts, if we have an unresolvable issue, we will seek help from the TA and the professor.
 
 ## Accountability
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
 
----complete their tasks on time, respond to communications
+---Complete their tasks on time and respond to communications
 
 ---
 
@@ -61,4 +61,5 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
-(type names here)Kenneth Hongzheng Wang
+Kenneth Hongzheng Wang
+Joseph Ding
